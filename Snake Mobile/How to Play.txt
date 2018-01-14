@@ -1,0 +1,27 @@
+Open the file Snake.html with your Browser.
+
+
+Windows And Mac browser Compatibility :
+
+
+\\\\\\\WINDOWS///////
+
+Google Chrome : YES
+Mozilla Firefox : YES
+Internet Explorer : YES
+Microsoft Edge : YES
+Safari for Windows : NO
+
+\\\\\\\\\\\///////////
+
+
+
+\\\\\\\\MAC OS////////
+
+Google Chrome : YES
+Mozilla Firefox : YES
+Safari for Mac : YES
+Puffin Browser : YES
+Chromium Free : YES
+
+\\\\\\\\\\///////////
